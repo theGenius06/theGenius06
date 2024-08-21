@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @theGenius06
+- 👀 I’m interested in Music, Public Speaking, and Technology
+- 🌱 I’m currently learning FrontEnd Development
+- 💞️ I’m looking to collaborate on ... anything??? 
+- 📫 How to reach me https://www.linkedin.com/in/nathan-dames-55a306324/?trk=public-profile-join-page
+- ⚡ Fun fact: I've learned instruments since age 4, and have done art since 7.
+- 🪄 Have you ever met a FrontEnd Developer who is an illusionist and made almost 100 videogames on Khan Academy? 👀 
