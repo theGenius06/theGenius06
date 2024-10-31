@@ -2,6 +2,6 @@
 - 👀 I’m interested in Music, Public Speaking, and Technology
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on ... anything??? 
-- 📫 How to reach me [https://www.linkedin.com/in/nathan-dames-55a306324/?trk=public-profile-join-page](https://www.linkedin.com/in/nathaniel-dames/)
+- 📫 You can reach me on my [LinkedIn Page!!!](https://www.linkedin.com/in/nathaniel-dames/)
 - ⚡ Fun fact: I've learned instruments since age 4, and have done art since 7.
-- 🪄 Have you ever met a FrontEnd Developer who is an illusionist and made almost 100 videogames on Khan Academy? 👀 
+- 🪄 Have you ever met a FrontEnd Developer who is an illusionist and made almost 100 video games on Khan Academy? 👀 
