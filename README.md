@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @theGenius06
+# Welcome!!! 😎 
+- 👋 Hi, I’m Nathaniel Dames!
 - 👀 I’m interested in Music, Public Speaking, and Technology
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on ... anything??? 
